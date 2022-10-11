@@ -1,16 +1,10 @@
-# nft_showroom
+# NFT Showroom
 
-A new Flutter project.
+NFT marketplace UI with glow effect.
 
-## Getting Started
+#
+![nft-1](https://user-images.githubusercontent.com/83041330/195091264-c6179674-7e36-4aa6-bd97-151fafaa281c.png)
 
-This project is a starting point for a Flutter application.
+#
+![nft-2](https://user-images.githubusercontent.com/83041330/195091310-5fcb4944-31c4-4e8b-ad76-b1bb8d5bacd1.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
